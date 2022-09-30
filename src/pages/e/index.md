@@ -1,7 +1,7 @@
 ---
-id: E
+id: e
 title: Meshtastic Channel Settings
-sidebar_label: E
+sidebar_label: e
 ---
 
 <head>
